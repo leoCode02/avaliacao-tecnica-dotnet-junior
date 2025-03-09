@@ -1,5 +1,4 @@
 ﻿using File2SQLite.Interfaces;
-using File2SQLite.Models;
 using Microsoft.Data.Sqlite;
 
 namespace File2SQLite.Services
