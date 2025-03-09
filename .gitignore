@@ -1,0 +1,20 @@
+## .NET ##
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.userprefs
+*.nupkg
+packages/
+
+## Executáveis ##
+*.exe
+*.dll
+*.pdb
+*.zip
+
+## Banco de dados SQLite ##
+dados.db
